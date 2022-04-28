@@ -1,5 +1,5 @@
 ## eth-kvstore
-[![Travis Build Status](https://travis-ci.org/hCaptcha/eth-kvstore.svg?&branch=master)](https://travis-ci.org/hCaptcha/eth-kvstore)
+<a href="https://cla-assistant.io/humanprotocol/eth-kvstore"><img src="https://cla-assistant.io/readme/badge/humanprotocol/eth-kvstore" alt="CLA assistant" /></a>
 
 A way to store key-value pairs tied to your ethereum address.
 
