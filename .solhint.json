@@ -1,5 +1,5 @@
 {
-  "extends": "default",
+  "extends": "solhint:recommended",
   "rules": {
     "avoid-throw": false,
     "avoid-suicide": "error",
@@ -8,6 +8,7 @@
     "indent": ["warn", 4],
     "max-line-length": 150,
     "var-name-mixedcase": false,
-    "func-param-name-mixedcase": false
+    "func-param-name-mixedcase": false,
+    "compiler-version": ["error", "^0.8.0"]
   }
 }
