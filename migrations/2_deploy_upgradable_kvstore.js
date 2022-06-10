@@ -24,6 +24,6 @@ module.exports = async (deployer) => {
       return;
     }
 
-    console.log(`deployed hmt token address stored in ${ADDRESS_OUTPUT_FILENAME}`);
+    console.log(`deployed kvstore address stored in ${ADDRESS_OUTPUT_FILENAME}`);
   });
 };
